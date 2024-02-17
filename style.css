@@ -150,6 +150,148 @@ body{
     
 }
 
+.time-section{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, rgb(255, 229, 229), transparent);
+    color: black;
+    padding: 20px; 
+    border-radius: 10px; 
+    margin: 50px 140px 100px 140px;
+    width:auto;
+    height: 400px;    
+    
+}
+
+.time-section:hover{
+    border: #2c2828 1px solid;
+}
+
+.time-section-font{
+    margin-bottom: 20px;
+   
+
+}
+.place-date-time{
+    color: #FF0000;
+}
+
+.btn-time-section{
+    color: white;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    cursor: pointer;
+    border: none; 
+    background: red; 
+    padding: 15px 30px; 
+    border-radius: 10px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.time-sec-h4{
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size: 32px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    
+}
+
+.bonus-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+    margin: 50px 140px 100px 140px;
+}
+
+.bonus-section > div {
+    flex: 1;
+    margin: 0 10px;
+}
+
+
+
+.bonus-section img {
+    display: block;
+    padding-left: 50px;
+    margin: 0;
+    width: 200px;
+    height: auto;
+}
+
+.bonus-t-1{
+    font-size: 24px;
+    color:#FF0000;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 0px;
+}
+
+.bonus-t-2{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 48px;
+    color:#000000;
+    font-family: 'Merriweather', sans-serif;
+}
+
+.bonus-t-3{
+    margin-top: 10px;
+    margin-bottom: 0px;
+    font-size: 18px;
+    color:#000000;
+    font-weight: 200;
+    font-family: 'inter', sans-serif;
+    margin-bottom: 20px;
+    
+}
+
+.sale-section-50{
+    margin: 50px 140px 100px 140px;
+}
+
+.upper-section-50{
+    align-items: center;
+    text-align: center;
+}
+
+.image-section-50 img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.sale-t-1-50{
+    font-size: 24px;
+    color: #000000;
+    font-family: 'Inter', sans-serif;
+    margin-bottom: 0px;
+
+}
+
+.sale-t-2-50{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    font-size: 72px;
+    color: black;
+    font-family: 'Merriweather', sans-serif;
+}
+
+.sale-t-2-50-sapan{
+color: #FF0000;
+}
+
+.sale-t-3-50{
+    padding: 10px 150px;
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+
+}
+
 
 
 
