@@ -90,7 +90,7 @@ body{
 .midnight-section {
     position: relative; 
     background: linear-gradient(to left, rgba(0,0,0,0), rgba(0,0,0,1)), url('resources/Vectorrr.png');
-    padding: 140px 50px;
+    padding: 130px 50px;
     margin: 50px 140px;
     background-repeat: no-repeat;
     background-position:center;
